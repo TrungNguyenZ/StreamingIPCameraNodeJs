@@ -80,39 +80,4 @@ Now keep those two terminal up and running<br/><br/>
 <strong>Preview Streaming Camera on web browser by go to this URL:<br/></strong>
 > [127.0.0.1:8000](http://127.0.0.1:8080/)<br/>
 
-You are ready to go.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/xpcrts/Steaming-IP-Camera-Nodejs/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## To-dos
-
-* Streaming Multiple camera channels at once, using 4x4 grid or more
-* Customize width and height of canvas
-* Improve streaming resolution quality
-* Decrease streaming latency 
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/xpcrts/Steaming-IP-Camera-Nodejs/tags). 
-
-## Authors
-
-* **Phok Chanrithisak** - [xpcrts](https://github.com/xpcrts)
-
-See also the list of [contributors](https://github.com/xpcrts/Steaming-IP-Camera-Nodejs/graphs/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/xpcrts/Steaming-IP-Camera-Nodejs/blob/master/LICENSE) file for details
-
-## Acknowledgments
-
-* Credit to: Celalettin Erbulut
-
-
-# Donate me (if it helpful)
-[![](https://img.shields.io/badge/%24-donate-green.svg)](https://github.com/QingWei-Li/donate)<br/>
-Bitcoin (BTC): bc1qtmvj9670pxrrdhqg98zge6qkw3kr590r96kq5p <br/>
-Ethereum (ETH) or USDT (ETH Network) or USDC (ETH Network): 0x16f2b8e63859f5665023D33d65DBcba189e4A9d4
