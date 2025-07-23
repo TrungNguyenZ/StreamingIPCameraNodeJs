@@ -23,9 +23,6 @@ A step by step series of examples that tell you how to get a development up and 
 1. Download Git
 * [Git](https://git-scm.com/downloads)
 2. Open <strong>command prompt/terminal</strong>, Clone this repository to your local machine
-```
-git clone https://github.com/xpcrts/Steaming-IP-Camera-Nodejs
-```
 3. Download and install Node.js on your local machine
 * [Node.js](https://nodejs.org/en/) - Node.js >= 10.15.0
 4. Download and install pre-build FFMPEG Builds on your local machine (Download Build)
